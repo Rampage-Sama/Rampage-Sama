@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @Ofentse Rampa
-- 👀 I’m interested in programming front-end development to be specific...
-- 🌱 I’m currently learning React and polishing my skills on Javascript...
-- 💞️ I’m looking to collaborate on static and dynamic websites...
-- 📫 How to reach me via Discord @LinkedIn, call or email...
-[![Ofentse's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Rampage-Sama/github-readme-stats)
 
-<!---
-@Ofentse Rampa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rampage-Sama&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rampage-Sama&layout=compact" />
+
+<img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JavaScript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="Tailwindcss" align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
